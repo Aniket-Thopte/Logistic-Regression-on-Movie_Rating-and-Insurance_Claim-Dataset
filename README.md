@@ -8,7 +8,7 @@
 
 • Conducted logistic regression analysis on movie ratings dataset to check the relationship between the success of a movie & the related attributes like (comments, likes-dislikes, budget of movie, number of sequels, total number of views, etc.)
 
-#Application: 
+# Application: 
 Customer Purchases Prediction (Will purchase or not), Predictive Modeling in Logistics & Supply Chain, etc.
 
 #
